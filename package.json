@@ -1,0 +1,16 @@
+{
+  "name": "template-base-node",
+  "version": "1.0.0",
+  "description": "Base container for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Provenzano",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.6.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9"
+  }
+}
