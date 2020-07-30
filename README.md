@@ -6,8 +6,8 @@ Microservice.
 
 ### Setup
 
-Requires [Node.js](https://nodejs.org/) v10+ to run.
-Requires [Npm](https://www.npmjs.com/)
+- Requires [Node.js](https://nodejs.org/) v10+ to run.
+- Requires [Npm](https://www.npmjs.com/)
 
 ### Docker
 
