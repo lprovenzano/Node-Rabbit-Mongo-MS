@@ -4,11 +4,6 @@
 
 Microservice.
 
-### Setup
-
-- Requires [Node.js](https://nodejs.org/) v10+ to run.
-- Requires [Npm](https://www.npmjs.com/)
-
 ### Docker
 
 By default, expose port 3000, so change this within the Dockerfile if necessary. When ready, simply use the Dockerfile to build the image.
